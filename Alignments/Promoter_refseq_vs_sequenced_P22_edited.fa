@@ -1,0 +1,36 @@
+>P22_seq/1-286 Sequence from sequencing run on 18/03/2015
+--------------CCAATTTGCGGGGAGGATCTTGCTGTTTACAAAATTGGCCAAAGCAGAAAGGTCCGAC
+CTAATTAAAGAAAGGGAAGCAAGTGCTCATCTGTAAA-GGGTTTTAAAACGCCATGCCTCGTGCATGGCGTT
+TTTTTGTGCCAATGGGTCCGGTGCGAGATACGACTCCGGTCTTATATAAAAATCGATCTCTGATTCGTTTTG
+CATATCTTCCAACTTGTATAAGATGAAGACAAGGAAAACGAAAGGAGGATCTGCATGGGGATCCTCTAGAAT
+GGTGAGCAAGGGC
+>Promoter_ref_seq/1-262 Reference sequence of PLiaI
+----------GAAATTATTGCGGGTATCGGAATCTTGCTGTTTACAAAATTGGCCAAAGCAGAAAGTCCGAC
+CTAATTAAAGAAAGGGAAGCAAGTGTTCATCTGTAAA-GGGTTTTAAAACGCCATGCCTCGTGCATGGCGTT
+TTTTTGTGCCAATGGGTCCGGTGCGAGATACGACTCCGGTCTTATATAAAAATCAATCTCTGATTCGTTTTG
+CATATCTTCCAACTTGTATAAGATGAAGACAAGGAAAACGAAAGGAGGATCTGCATG---------------
+-------------
+>MaJ3/1-34 Forward Primer used for sequencing
+GCGCGAATTCGAAATTATTGCGGGTATCGGAATC--------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+-------------
+>blank/1-0 For clarity's sake
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+-------------
+>pGF1/1-130 complete sequence of pGF1 plasmid
+----GAATTCTGTCGGTTGGCGCAAAACACGCTGATTTTTTCATCGCTCAAGGCGGGCCGTGTAACGTATAA
+TGCGGCTTTGTTTAATCATCATCTACCACAGAGGA-------------------------------------
+------------------------------------------------------------------------
+---------------------------------------------------------GGATCCTCTAGAATG
+GTGAGCAAGGGC-
+>tat_promoter/1-103 Sequence of tat-promoter, part of pGF1
+----------TGTCGGTTGGCGCAAAACACGCTGATTTTTTCATCGCTCAAGGCGGGCCGTGTAACGTATAA
+TGCGGCTTTGTTTAATCATCATCTACCACAGAGGA-------------------------------------
+------------------------------------------------------------------------
+---------------------------------------------------------GGATCC---------
+-------------
